@@ -5,10 +5,10 @@
 珠江第一线,#genre#
 珠江第一线,https://lhttp.qingting.fm/live/1259/64k.mp3
 珠江第一线20240112,https://lcache.qingting.fm/cache/20240112/1259/1259_20240112_073000_093000_24_0.aac
-珠江第一线20240111,https://lcache.qingting.fm/cache/20240111/1259/1259_20240112_073000_093000_24_0.aac
-珠江第一线20240110,https://lcache.qingting.fm/cache/20240110/1259/1259_20240112_073000_093000_24_0.aac
-珠江第一线20240109,https://lcache.qingting.fm/cache/20240109/1259/1259_20240112_073000_093000_24_0.aac
-珠江第一线20240108,https://lcache.qingting.fm/cache/20240108/1259/1259_20240112_073000_093000_24_0.aac
+珠江第一线20240111,https://lcache.qingting.fm/cache/20240111/1259/1259_20240111_073000_093000_24_0.aac
+珠江第一线20240110,https://lcache.qingting.fm/cache/20240110/1259/1259_20240110_073000_093000_24_0.aac
+珠江第一线20240109,https://lcache.qingting.fm/cache/20240109/1259/1259_20240109_073000_093000_24_0.aac
+珠江第一线20240108,https://lcache.qingting.fm/cache/20240108/1259/1259_20240108_073000_093000_24_0.aac
 
 广东收集,#genre#
 广东体育（测试）,http://r.jdshipin.com/LiYdg
