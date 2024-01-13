@@ -277,6 +277,8 @@ G导视高清,http://cdn.jdshipin.com:8880/gd电报专属勿外传231216.php?id=
 广东民生,http://cdn.jdshipin.com:8880/gd电报专属勿外传231216.php?id=gdms
 
 今日关注,https://vod.gdtv.cn/m3u8/202401/170498618282.m3u8
+珠江第一线,https://lhttp.qingting.fm/live/1259/64k.mp3
+珠江第一线20240112,https://lcache.qingting.fm/cache/20240112/1259/1259_20240112_073000_093000_24_0.aac
 
 港澳,#genre#
 凤凰香港,http://113.117.74.18:8081/hls/38/index.m3u8
