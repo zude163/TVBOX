@@ -37,6 +37,8 @@
 广东新闻,http://cdn.jdshipin.com:8880/gd电报专属勿外传231216.php?id=gdxw
 广东民生,http://cdn.jdshipin.com:8880/gd电报专属勿外传231216.php?id=gdms
 
+广东测试,https://www.gdtv.cn/tvChannelDetail/44
+
 
 广东,#genre#
 G导视高清,http://cdn.jdshipin.com:8880/gd电报专属勿外传231216.php?id=gdds
