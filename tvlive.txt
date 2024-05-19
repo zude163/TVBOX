@@ -31,6 +31,9 @@
 TVB 功夫台(粵),http://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8
 TVB 星河台(粵),http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
 粤语电影,http://allinone.netsite.cc/douyu/6566671
+华语电影,http://allinone.netsite.cc/douyu/85894
+周星驰,http://allinone.netsite.cc/douyu/122402
+
 
 央视卫视,#genre#
 CCTV-1,http://14.155.230.71:8888/hls/1/index.m3u8
