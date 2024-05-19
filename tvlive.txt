@@ -22,12 +22,15 @@
 广东民生,http://183.6.110.242:9901/hls/1052/index.m3u8
 广东体育,http://183.6.110.242:9901/hls/1053/index.m3u8
 
+广东影视,http://14.29.76.30:9901/tsfile/live/1002_1.m3u8
+
 广州高清,http://183.6.110.242:9901/hls/1054/index.m3u8
 广州新闻,http://183.6.110.242:9901/hls/1055/index.m3u8
 广州影视,http://183.6.110.242:9901/hls/1056/index.m3u8
 
 TVB 功夫台(粵),http://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8
 TVB 星河台(粵),http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
+粤语电影,http://allinone.netsite.cc/douyu/6566671
 
 央视卫视,#genre#
 CCTV-1,http://14.155.230.71:8888/hls/1/index.m3u8
