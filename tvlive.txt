@@ -12,9 +12,9 @@
 珠江第一线20240108,https://lcache.qingting.fm/cache/20240108/1259/1259_20240108_073000_093000_24_0.aac
 
 广东收集,#genre#
-广东体育（测试）,http://14.212.185.138:9901/tsfile/live/1002_1.m3u8
-广东体育（测试）,http://116.21.122.2:4433/tsfile/live/0142_1.m3u8
-广东体育（测试）,http://218.13.170.98:9901/tsfile/live/0019_1.m3u8
+广东体育（测试）,http://php.jdshipin.com/TVOD/iptv.php?id=gdty
+广东体育（测试）,http://cdn2.163189.xyz/live/gdty/stream.m3u8
+广东体育（测试）,http://cdn2.132.us.kg/live/gdty/stream.m3u8
 
 广东珠江,http://183.6.110.242:9901/hls/1050/index.m3u8
 广东珠江,http://119.134.111.24:8888/udp/239.77.0.3:5146
@@ -33,8 +33,10 @@
 凤凰香港台,http://www.pr666.site:4040/udp/239.255.30.123:8231
 
 凤凰中文,http://www.pr666.site:4040/udp/239.255.30.50:8231
-凤凰资讯,http://www.pr666.site:4040/udp/239.255.30.70:8231
+凤凰资讯,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
+凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 
+TVB翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
 TVB 功夫台(粵),http://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8
 TVB 星河台(粵),http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
 粤语电影,http://allinone.netsite.cc/douyu/6566671
