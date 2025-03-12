@@ -12,6 +12,7 @@
 珠江第一线20240108,https://lcache.qingting.fm/cache/20240108/1259/1259_20240108_073000_093000_24_0.aac
 
 广东收集,#genre#
+广东体育（测试）,https://cdn2.163189.xyz/live/gdty/stream.m3u8
 广东体育（测试）,http://php.jdshipin.com/TVOD/iptv.php?id=gdty
 广东体育（测试）,http://cdn2.163189.xyz/live/gdty/stream.m3u8
 广东体育（测试）,http://cdn2.132.us.kg/live/gdty/stream.m3u8
