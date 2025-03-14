@@ -1,16 +1,3 @@
-
-今日关注,#genre#
-今日关注20240112,https://vod.gdtv.cn/m3u8/202401/170498618282.m3u8
-今日关注20240112a,https://vfile2.grtn.cn/2024/1705/0728/6332/170507286332.ssm/170507286332.mp4
-
-珠江第一线,#genre#
-珠江第一线,https://lhttp.qingting.fm/live/1259/64k.mp3
-珠江第一线20240112,https://lcache.qingting.fm/cache/20240112/1259/1259_20240112_073000_093000_24_0.aac
-珠江第一线20240111,https://lcache.qingting.fm/cache/20240111/1259/1259_20240111_073000_093000_24_0.aac
-珠江第一线20240110,https://lcache.qingting.fm/cache/20240110/1259/1259_20240110_073000_093000_24_0.aac
-珠江第一线20240109,https://lcache.qingting.fm/cache/20240109/1259/1259_20240109_073000_093000_24_0.aac
-珠江第一线20240108,https://lcache.qingting.fm/cache/20240108/1259/1259_20240108_073000_093000_24_0.aac
-
 广东收集,#genre#
 广东体育（测试）,http://218.15.183.23:9901/tsfile/live/23012_1.m3u8
 广东体育（测试）,https://cdn2.163189.xyz/live/gdty/stream.m3u8
